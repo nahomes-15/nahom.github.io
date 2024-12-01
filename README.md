@@ -43,3 +43,84 @@
   </div>
 </body>
 </html>
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+.container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.left-section {
+  width: 30%;
+  background-color: #1a202c;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.left-section h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.left-section p, .left-section a {
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.right-section {
+  width: 70%;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.right-section h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.right-section h3 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.right-section p, .right-section ul {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.right-section ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
