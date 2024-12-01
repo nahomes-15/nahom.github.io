@@ -16,6 +16,8 @@ For a broad overview, you can:
 - [Watch my PhD thesis defense](#)
 - [Read my PhD thesis](#)
 
+Before TTIC, I completed a five-year program (combined BS/MS) in computer science and engineering at **Penn State**. While there, I enjoyed working with **Daniel Kifer** and **Sean Hallgren** on problems in machine learning and quantum computational complexity.
+
 ---
 
 ## Publications:
@@ -45,3 +47,6 @@ For a broad overview, you can:
 ---
 
 ![Profile Picture](your-image-url.jpg)
+
+## About
+Hi, I'm Omar Montasser, a researcher passionate about adversarial robustness in machine learning! Let me know if you're interested in collaborating or learning more about my work.
